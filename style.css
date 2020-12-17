@@ -29,6 +29,10 @@ body {
   line-height: 25px;
 }
 
+body {
+  justify-content: center;
+}
+
 .header {
   font-family: 'Roboto Condensed', sans-serif;
   color: #4361ee;
@@ -77,4 +81,8 @@ a:hover {
   padding: 0 10px;
   font-size: 30px;
   color: rgb(50,50,50);
+}
+
+.project-list {
+  text-align: left;
 }
